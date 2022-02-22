@@ -1,0 +1,425 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exhortation to England, to ioine for defense of true religion and their natiue countrie Seene and allowed according to the order appointed.</title>
+            <author>R. D., fl. 1568.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1568</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19752</idno>
+            <idno type="STC">STC 6179</idno>
+            <idno type="STC">ESTC S105151</idno>
+            <idno type="EEBO-CITATION">99840881</idno>
+            <idno type="PROQUEST">99840881</idno>
+            <idno type="VID">5423</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5423)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 378:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exhortation to England, to ioine for defense of true religion and their natiue countrie Seene and allowed according to the order appointed.</title>
+                  <author>R. D., fl. 1568.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Henry Denham dwelling in Pater noster Row, at the signe of the Star,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno. 1568.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: R.D.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A⁴ B² .</note>
+                  <note>Running title reads: An exhortation to Englande.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5423:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:5423:1"/>
+            <!-- PDF PAGE 22 -->
+            <p>
+               <hi>An Exhortation</hi> to England, to ioine <hi>for defenſe of true</hi> Re<g ref="char:EOLhyphen"/>ligion and their na<g ref="char:EOLhyphen"/>tiue Coun<g ref="char:EOLhyphen"/>trie.</p>
+            <p>Seene and allowed according to the order appointed.</p>
+            <p>Jmprinted at Lon<g ref="char:EOLhyphen"/>don <hi>by Henry D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nham</hi> dwelling in Pater n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſter Row, at the ſigne of the Star.</p>
+            <p>Anno. 1568.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:5423:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>To the Reader.</head>
+            <p>THE great care I haue, being yet but a meane and inferior member of the body of this our flouriſhing common wealth of Englande, that the ſame and all the partes therof might more and more in welth and proſperitie abide free from thraldome and bondage, that might happen by forreine greedy gouernors. And the feare that I haue co<g ref="char:cmbAbbrStroke">̄</g>ceiued, leaſt ſome euill diſpoſed perſons, not content with their owne, might in this dau<g ref="char:cmbAbbrStroke">̄</g>gerous time, vpon ſome hope to find vs a monſtruous &amp; vnnaturall body, attempt a diſturbaunce, yea rather an vtter ouer<g ref="char:EOLhyphen"/>throw of vs al: Theſe things I ſay, haue bene the cauſes (gentle Reader) of this my bro<g ref="char:EOLhyphen"/>therlye Exhortation, dedicated vnto thee, humbly beſeching thee to accept the ſame, as a welment token of my good wil, though not ſtuffed with eloquen ſtyle, yet ſto<g ref="char:EOLhyphen"/>red with h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtie and louing zeale to<g ref="char:EOLhyphen"/>wards thee, and the reſt of this our natiue Countrie. Farewell in the Lorde.</p>
+            <closer>
+               <signed>R. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:5423:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>¶ AN EXHORTA<g ref="char:EOLhyphen"/>tion <hi>to Englande.</hi>
+            </head>
+            <l>A Wake each Engliſh Wight,</l>
+            <l>both high and low awake:</l>
+            <l>Feare not the froward boaſting bragges,</l>
+            <l>that forraine foes doe make.</l>
+            <l>Conſpiring your diſtreſſe, for</l>
+            <l>ſticking to the troth,</l>
+            <l>And for refourming the abuſe,</l>
+            <l>of ſuch as liued in ſloth.</l>
+            <l>But way the rightfull grounde,</l>
+            <l>and ſtate wherein you ſtand:</l>
+            <l>And marke thaccurſed cruell cauſe,</l>
+            <l>that they doe take in hand.</l>
+            <l>You doe your ſacred faith,</l>
+            <l>and countries ſoyle defend:</l>
+            <l>Taboliſh faith, and conquer you,</l>
+            <l>they ſurely doe intend.</l>
+            <l>Each cauſe of yours may cauſe</l>
+            <l>your hart great comfort take:</l>
+            <l>Each cauſe of theirs may iuſtly cauſe</l>
+            <l>their coward hart to quake.</l>
+            <l>They hope perhaps to haue,</l>
+            <l>ſome help within this Ile:</l>
+            <l>
+               <pb facs="tcp:5423:3"/>
+               <!-- PDF PAGE 24 -->
+But ſure I hope their firmeſt frindes,</l>
+            <l>will iuſtly them beguyle.</l>
+            <l>For though they thinke that ſome,</l>
+            <l>doe ſo digreſſe from kynde,</l>
+            <l>That tryfling toyes and childiſh chattes,</l>
+            <l>can chaunge their Engliſh mynde:</l>
+            <l>I truſt when triall happes,</l>
+            <l>they ſhall haue their deſarts.</l>
+            <l>Not Traytours ayde, but ſharpe reuenge</l>
+            <l>by truſtie engliſh harts.</l>
+            <l>Thinke they we force ſo light,</l>
+            <l>the loſſe of Engliſh ſoyle?</l>
+            <l>Our natiue countrie ſo long kept,</l>
+            <l>will we now loſe with foyle?</l>
+            <l>Our kinred and Alies,</l>
+            <l>our wiues and children deare</l>
+            <l>Shall we not ſeeke to ſhielde from death?</l>
+            <l>ſhall we ſo vile appeare?</l>
+            <l>Each brute and ſaluage beaſt</l>
+            <l>his kynd will ſéeke to ſaue:</l>
+            <l>Shall Chriſtians then? ſhall they be ſéene</l>
+            <l>more beaſtly mindes to haue?</l>
+            <l>I hope what euer cauſe</l>
+            <l>doth cauſe debates to bée,</l>
+            <l>The doubt to loſe life, landes, and goods,</l>
+            <l>will cauſe vs to agrée</l>
+            <l>
+               <pb facs="tcp:5423:3"/>
+               <!-- PDF PAGE 24 -->
+To ioyne our willing myndes,</l>
+            <l>our goods and greateſt force:</l>
+            <l>Tannoy our foes, to ſhield our ſelfe</l>
+            <l>from bloudy ſtained corſe.</l>
+            <l>What ſhould vs daunt one ioate,</l>
+            <l>or make vs be diſmayd?</l>
+            <l>Let neuer threates of forraine foes</l>
+            <l>make Engliſh men afrayd.</l>
+            <l>Looke back to auncient writ</l>
+            <l>of valiant enterpriſe:</l>
+            <l>And ſée with how great foyles their foes</l>
+            <l>your Elders did agriſe.</l>
+            <l>Read <hi>Froyſart</hi> that did write</l>
+            <l>the Frenchmens happes that fell:</l>
+            <l>What ouerthro wes by thengliſh giuen</l>
+            <l>to Fraunce, doth he there tell?</l>
+            <l n="1">
+               <hi>1</hi> Let <hi>Creſſy</hi> battell great</l>
+            <l>moſt ioyfull comfort yéelde:</l>
+            <l>Who there but manfull Engliſhmen</l>
+            <l>did winne the foughten fielde?</l>
+            <l>King Edward third of name,</l>
+            <l>ematcht with eight to one,</l>
+            <l>Did yet preuayle: ſhall we then quayle,</l>
+            <l>though Edward now be gone?</l>
+            <l n="2">
+               <hi>2</hi> At <hi>Poytiers</hi> note our fight</l>
+            <l>with Bow and reſted Launce:</l>
+            <l>
+               <pb facs="tcp:5423:4"/>
+               <!-- PDF PAGE 25 -->
+Did not one handfull (as it were)</l>
+            <l>beate all the force of Fraunce?</l>
+            <l>For as their Storie telles,</l>
+            <l>no French were from the ſame,</l>
+            <l>But ſuch as forced not too loſe</l>
+            <l>their honor or their fame.</l>
+            <l>The king himſelfe was tane,</l>
+            <l>each noble (welnigh) ſlaine:</l>
+            <l>Right few or none but dint of ſword</l>
+            <l>did put to deadly paine.</l>
+            <l n="3">
+               <hi>3</hi> How delt the Engliſhmen</l>
+            <l>in Britaine at <hi>Alroy?</hi>
+            </l>
+            <l>Did they not French and Britaines both</l>
+            <l>full deadly there annoy?</l>
+            <l n="4">
+               <hi>4</hi> The Spanyardes may not boaſt</l>
+            <l>to daunt an Engliſh hart,</l>
+            <l>If they to auncient hiſtorie</l>
+            <l>their memorie doe reuart.</l>
+            <l>Prince Edwardes noble act</l>
+            <l>call vnto mynde agayne,</l>
+            <l>Who did diſcomfit Henrick, that</l>
+            <l>vſurpt the crowne of Spayne:</l>
+            <l>Did vanquiſh both the French</l>
+            <l>and Spanyardes there in fight:</l>
+            <l>And ſet king Peter in his ſeate,</l>
+            <l>and ſtate of ſouereigne right.</l>
+            <l n="5">
+               <pb facs="tcp:5423:4"/>
+               <!-- PDF PAGE 25 -->
+               <hi>5</hi> Where had our hardy harts</l>
+            <l>of courage greater vſe</l>
+            <l>For our auayle, than on the ſea</l>
+            <l>before the towne of Scluſe?</l>
+            <l>The fight was fierce, and we</l>
+            <l>there matcht with foure to one:</l>
+            <l>Did yet from French and Normans</l>
+            <l>both, winne victorie alone.</l>
+            <l n="6">
+               <hi>6</hi> The fielde of <hi>Egincourt</hi>
+            </l>
+            <l>the Frenchmen yet may rue:</l>
+            <l>Their greateſt force our army ſmall</l>
+            <l>did nobly there ſubdue.</l>
+            <l n="7">
+               <hi>7</hi> The iourney of the <hi>Spurres</hi>
+            </l>
+            <l>ſo calde by haſtie flight</l>
+            <l>The French did make, and by our</l>
+            <l>hote purſute of them in fight</l>
+            <l>May make vs to reioyce,</l>
+            <l>and paſſing comfort finde:</l>
+            <l>As oft as we the hap thereof</l>
+            <l>doe haply call to minde.</l>
+            <l>Our king had then in Fraunce</l>
+            <l>that field in chaſe to ſcoure</l>
+            <l>The moſt of his nobilitie</l>
+            <l>and other his chiefeſt powre.</l>
+            <l>But yet the Scottiſh king</l>
+            <l>that ſought this Realme to ſack,</l>
+            <l>
+               <pb facs="tcp:5423:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 26 -->
+Found men ynow (huge though it were)</l>
+            <l>to beate his army back.</l>
+            <l>His chaunce each other Prince</l>
+            <l>by proued ſkill may teach</l>
+            <l>To gouerne well his owne, not roanie</l>
+            <l>for that he cannot reach.</l>
+            <l>¶ We that haue thus ſo oft</l>
+            <l>bene vſed to victories,</l>
+            <l>Shall we now doubt for to ſubdue</l>
+            <l>ſuch deadly enimies?</l>
+            <l>Nay rather thinke we ſure,</l>
+            <l>that theſe their plagues forepaſt,</l>
+            <l>To deale with vs on this ſide ſea,</l>
+            <l>will make them ſore agaſt.</l>
+            <l>‡ I truſt as of one realme,</l>
+            <l>euen ſo they ſhall vs ſée</l>
+            <l>Of one allegiaunce, of one hart,</l>
+            <l>and firme fidelitie.</l>
+            <l>Behold the wofull ſtate,</l>
+            <l>our neighbours ſtand now in:</l>
+            <l>By cloked craft, with ſhow of ſooth,</l>
+            <l>their ſorrowes did begin.</l>
+            <l>Thoſe that did nothing doubt</l>
+            <l>defended for to bée,</l>
+            <l>Doe now with bitter teares lament</l>
+            <l>their heauy hap, you ſée.</l>
+            <l>
+               <pb facs="tcp:5423:5"/>
+               <!-- PDF PAGE 26 -->
+Their land and riches great,</l>
+            <l>confiſcate to the ſpoyle,</l>
+            <l>That they and theirs in many yeares</l>
+            <l>haue woon with painfull toyle.</l>
+            <l>And ſhall we thinke to finde</l>
+            <l>more courteſie than thoſe,</l>
+            <l>If we permit, and not withſtand</l>
+            <l>the force of forraine foes?</l>
+            <l>Nay rather, this deceipt</l>
+            <l>may driue vs for to dréed,</l>
+            <l>And of ſuch like moſt ſubtile ſleight</l>
+            <l>to take moſt carefull héed.</l>
+            <l>Our foes like friends will fayne</l>
+            <l>to come for our ſoule helth;</l>
+            <l>But God doth know their foule pretenſe,</l>
+            <l>they ſhoote but at our welth.</l>
+            <l>The help they hope to haue,</l>
+            <l>for that we not agrée</l>
+            <l>(As they ſuppoſe for ſacred writ)</l>
+            <l>moſt iuſtly forceth mée,</l>
+            <l>To call to mynde thaduice</l>
+            <l>of <hi>Scorios</hi> hoaſt alone</l>
+            <l>The Romaines in diſſenſion then.</l>
+            <l>that he would ſet vppon.</l>
+            <l>Not ſo ſaid <hi>Scorio,</hi>
+            </l>
+            <l>I not allow your réed:</l>
+            <l>
+               <pb facs="tcp:5423:6"/>
+               <!-- PDF PAGE 27 -->
+For that were euen the neareſt way</l>
+            <l>to make them ſoone agréed.</l>
+            <l>For argument whereof</l>
+            <l>two Maſtiffes forth he brought,</l>
+            <l>And deadly foes he did them make,</l>
+            <l>by cauſe right aptly ſought.</l>
+            <l>A Woolfe put forth in place</l>
+            <l>no ſooner in their ſight,</l>
+            <l>But they as friends their common foe,</l>
+            <l>did ſet vpon with ſpight.</l>
+            <l>‡ Let then our foes forecaſt,</l>
+            <l>in ſéeking vs to ſack,</l>
+            <l>That naturall loue in Engliſh hartes</l>
+            <l>ſhall not be ſéene to lack.</l>
+            <l>And lack we men to fight?</l>
+            <l>nay were there euer moe?</l>
+            <l>More actiue or more firmely bent,</l>
+            <l>to kill their common foe?</l>
+            <l>Munition wanteth not,</l>
+            <l>nor ordinaunce for warre:</l>
+            <l>Each ſtorehouſe ſtuſt, each priuate houſe</l>
+            <l>hath furniture from farre.</l>
+            <l>The Quéene hath courage ſtoute,</l>
+            <l>hir ſubiects to defend:</l>
+            <l>Hir people haue as willing mindes,</l>
+            <l>their goods and life to ſpend.</l>
+            <l>
+               <pb facs="tcp:5423:6"/>
+               <!-- PDF PAGE 27 -->
+The cauſe is chiefly Gods,</l>
+            <l>whome euer his elect</l>
+            <l>Haue found moſt ready from their foes</l>
+            <l>to ſhield them and protect.</l>
+            <l>Examples manifold,</l>
+            <l>for proofe thereof moſt ſtrong</l>
+            <l>I might alleadge: but ſome, perhaps,</l>
+            <l>would thinke the worke to long.</l>
+            <l>Let this therfore ſuffiſe,</l>
+            <l>and let vs firmely truſt,</l>
+            <l>God neuer did nor neuer will</l>
+            <l>forget them that be iuſt.</l>
+            <l>Let each repent in hart,</l>
+            <l>and mend that is amiſſe:</l>
+            <l>Then God, no doubt, our chiefe defenſe</l>
+            <l>will take vs to be his.</l>
+            <l>That we may grace obteine</l>
+            <l>by his moſt gracious will,</l>
+            <l>Let euery well diſpoſed Wight</l>
+            <l>crie out vnto him ſtill.</l>
+            <l>Looke Lord on Englandes ſtate,</l>
+            <l>we humbly pray thée then,</l>
+            <l>And graunt that each true Engliſh hart</l>
+            <l>conſent to ſay, Amen.</l>
+            <closer>
+               <signed>R. D.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:5423:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <p>Imprinted at London by Henry Denham, dwelling in Pater<g ref="char:EOLhyphen"/>noſter Rovve, at the ſigne of the Starre.</p>
+            <figure>
+               <q xml:lang="lat">OS HOMINI SVBLIME DEDIT</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Anno Domini 1568.</p>
+            <p>Cum Priuilegio.</p>
+            <pb facs="tcp:5423:7"/>
+            <!-- PDF PAGE 28 -->
+         </div>
+      </back>
+   </text>
+</TEI>
